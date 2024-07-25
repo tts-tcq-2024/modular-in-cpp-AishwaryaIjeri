@@ -1,9 +1,9 @@
-#ifndef COLORCODERTELCOM_H
-#define COLORCODERTELCOM_H
+#ifndef TELCOCOLORCODER_H
+#define TELCOCOLORCODER_H
 
 #include <iostream>
 
-namespace ColorcoderTelcom {
+namespace TelCoColorCoder {
     enum MajorColor { WHITE, RED, BLACK, YELLOW, VIOLET };
     enum MinorColor { BLUE, ORANGE, GREEN, BROWN, SLATE };
 
@@ -28,4 +28,4 @@ namespace ColorcoderTelcom {
     void PrintColorCodingReference();
 }
 
-#endif /* COLORCODERTELCOM_H */
+#endif /* TELCOCOLORCODER_H */
