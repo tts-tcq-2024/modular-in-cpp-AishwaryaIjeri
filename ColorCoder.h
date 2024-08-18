@@ -25,4 +25,3 @@ namespace TelCoColorCoder
 }
 
 #endif // COLORCODER_H
-#endif /* TELCOCOLORCODER_H */
